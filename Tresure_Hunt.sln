@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{517CADA0-BEC1-F887-59D7-6FED68184A80}") = "Tresure_Hunt", "Assembly-CSharp.csproj", "{175EA3C3-E256-86EE-9C9A-65E0A4C73013}"
+EndProject
+Project("{517CADA0-BEC1-F887-59D7-6FED68184A80}") = "Tresure_Hunt", "Assembly-CSharp-Editor.csproj", "{7A68EC38-D626-4292-7549-5CCE170835DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175EA3C3-E256-86EE-9C9A-65E0A4C73013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175EA3C3-E256-86EE-9C9A-65E0A4C73013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175EA3C3-E256-86EE-9C9A-65E0A4C73013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175EA3C3-E256-86EE-9C9A-65E0A4C73013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A68EC38-D626-4292-7549-5CCE170835DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A68EC38-D626-4292-7549-5CCE170835DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A68EC38-D626-4292-7549-5CCE170835DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A68EC38-D626-4292-7549-5CCE170835DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
